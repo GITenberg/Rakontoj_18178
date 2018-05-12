@@ -1,0 +1,38 @@
+_repo: Rakontoj_18178
+_version: 0.1.0
+contributor:
+  translator:
+    agent_name: Grňa, Josef
+    alias: Grna, Josef
+    deathdate: 1919
+    gutenberg_agent_id: '7856'
+    url: http://www.gutenberg.org/2009/agents/7856
+    wikipedia: http://eo.wikipedia.org/wiki/Josef_Gr%C5%88a
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Arbes, Jakub
+    birthdate: 1840
+    deathdate: 1914
+    gutenberg_agent_id: '7855'
+    url: http://www.gutenberg.org/2009/agents/7855
+    wikipedia:
+    - http://eo.wikipedia.org/wiki/Jakub_Arbes
+    - http://cs.wikipedia.org/wiki/Jakub_Arbes
+description: ''
+gutenberg_bookshelf: Esperanto
+gutenberg_issued: '2006-04-14'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '18178'
+language: eo
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Fiction'
+- !lcc 'PG'
+title: Rakontoj
+url: http://www.gutenberg.org/ebooks/18178
